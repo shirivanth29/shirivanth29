@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shirivanth29
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning 2nd year in computer science 
+- 🌱 I’m currently learning about simple codings 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
